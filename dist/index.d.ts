@@ -1,8 +1,1 @@
-/**
-* @Class: A seed
-* @Param {string}
-*/
-export declare class Seed {
-    type: string;
-    constructor();
-}
+export * from './barn/barn-module';

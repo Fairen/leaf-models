@@ -11,7 +11,18 @@ bower install @fairen/models --save
 ## Usage
 ### TypeScript
 ```typescript
+import { Seed } from '@fairen/models/barn/seed';
+```
+or
+```typescript
+import { Seed } from '@fairen/models/barn/barn-module';
+```
+or 
+```typescript
 import { Seed } from '@fairen/models';
+```
+
+```typescript
 let seed = new Seed();
 ```
 

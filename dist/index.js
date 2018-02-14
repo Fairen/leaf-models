@@ -1,13 +1,6 @@
 "use strict";
+function __export(m) {
+    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
+}
 Object.defineProperty(exports, "__esModule", { value: true });
-/**
-* @Class: A seed
-* @Param {string}
-*/
-var Seed = /** @class */ (function () {
-    function Seed() {
-        this.type = "¯\_(ツ)_/¯";
-    }
-    return Seed;
-}());
-exports.Seed = Seed;
+__export(require("./barn/barn-module"));
