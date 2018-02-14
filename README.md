@@ -4,9 +4,9 @@
 A Node.js module seed for typescript classes  
 ## Installation 
 ```sh
-npm install seed-models --save
-yarn add seed-models
-bower install seed-models --save
+npm install @fairen/models --save
+yarn add @fairen/models
+bower install @fairen/models --save
 ```
 ## Usage
 ### TypeScript
