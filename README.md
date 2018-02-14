@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Fairen/seed-models.svg?branch=master)](https://travis-ci.org/Fairen/seed-models)
+[![Coverage Status](https://coveralls.io/repos/github/Fairen/seed-models/badge.svg?branch=master)](https://coveralls.io/github/Fairen/seed-models?branch=master)
 # @seed/models
 A Node.js module seed for typescript classes  
 ## Installation 
