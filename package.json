@@ -1,6 +1,6 @@
 {
   "name": "@fairen/models",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Seed for Typescpript classes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
