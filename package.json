@@ -1,5 +1,5 @@
 {
-  "name": "@seed/models",
+  "name": "@fairen/models",
   "version": "0.1.0",
   "description": "Seed for Typescpript classes",
   "main": "index.js",
