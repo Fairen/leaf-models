@@ -2,7 +2,8 @@
   "name": "@fairen/models",
   "version": "0.1.2",
   "description": "Seed for Typescpript classes",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types" : "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "mocha --reporter spec",
